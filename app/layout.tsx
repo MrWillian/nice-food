@@ -12,7 +12,7 @@ export default function RootLayout({
       <head></head>
       <body>
         <main>
-          <nav className="text-center font-medium text-white grid grid-cols-2">
+          <nav className="text-center font-medium text-white grid grid-cols-2 p-2">
             <Link href="/">Home</Link>
             <Link href="/recipes">Receitas</Link>
           </nav>
